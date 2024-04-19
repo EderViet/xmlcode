@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<?xml-stylesheet type="text/xsl" href="A3_TASK4.xsl"?>
+
+<comparisons dated="2024-02-22" location="Wollongong" company="Hotels Combined" url="https://www.hotelscombined.com.au">
+
+  <hotel>
+    <name>Novotel Wollongong Northbeach</name>
+    <stars>4</stars>
+    <reviews>3209</reviews>
+    <score>7.9</score>
+  </hotel>
+
+  <hotel>
+    <name>Sage Hotel Wollongong</name>
+    <stars>4</stars>
+    <reviews>3092</reviews>
+    <score>7.6</score>
+  </hotel>
+
+  <hotel>
+    <name>Adina Apartment Hotel Wollongong</name>
+    <stars>4</stars>
+    <reviews>1096</reviews>
+    <score>8.3</score>
+  </hotel>
+
+  <hotel>
+    <name>Quality Suites Pioneer Sands</name>
+    <stars>4</stars>
+    <reviews>612</reviews>
+    <score>8.2</score>
+  </hotel>
+
+  <hotel>
+    <name>Mantra Wollongong</name>
+    <stars>4</stars>
+    <reviews>1411</reviews>
+    <score>7.0</score>
+  </hotel>
+
+  <hotel>
+    <name>Boat Harbour Motel</name>
+    <stars>3</stars>
+    <reviews>2826</reviews>
+    <score>7.9</score>
+  </hotel>
+
+</comparisons>
